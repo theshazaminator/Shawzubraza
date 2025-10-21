@@ -1,8 +1,7 @@
 # Shawzub Raza 
 
-Hello World
+Hello World 👋
 
-I am Wayne State University B.Sc Graduate in Mathematics, Psychology, and Biomedical Physics
+I am a Wayne State University B.Sc Graduate in Mathematics, Psychology, and Biomedical Physics
 
-- shaw
-
+![IMG_2081](https://github.com/user-attachments/assets/0ced8d5c-47c6-463d-9e12-019cf7e07618)
