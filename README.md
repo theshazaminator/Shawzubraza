@@ -1,4 +1,4 @@
-# Hello World 👋,  Shawzub Raza
+# Hello World 👋,  I am Shawzub Raza
 
 I am a Wayne State University B.Sc Graduate in Mathematics, Psychology, and Biomedical Physics
 
