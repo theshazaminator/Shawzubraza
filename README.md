@@ -4,19 +4,19 @@ I am a Wayne State University B.Sc. graduate with degrees in Mathematics, Psycho
 
 
 # Experience 
-Game Theory Instructor, Math Corps - Wayne State University (Detroit, MI)                                                       June 2024 – August 2025
+Game Theory Instructor, Math Corps - Wayne State University (Detroit, MI)                            
 _Piloted a Game Theory course within the nationally recognized, NSF-funded Math Corps program_
 •	Hired into a senior position, reserved for Ph. Ds, in my first year, contributing to high-level mathematics curriculum design
 •	Developed a curriculum that included complex topics of mixed strategies, evolutionary games, and behavioral economics
 •	Nominated for a Math Corp Award for exemplifying the program’s mission of mentorship, excellence, and community impact
 
-Decision Science Researcher, Wayne State University (Detroit, MI)                                                                                  May 2024 - Present
+Decision Science Researcher, Wayne State University (Detroit, MI)                                                                            
 _Researching decisions in dating choices between Bio Information and Physical Attractiveness_
 •	Developing A/B testing models to analyze decision-making, applying psychological algorithm designs to dating decisions
 •	Utilizing ANCOVA models to assess key variables in online dating behavior
 •	Currently working on generating participants via paid survey platforms (Prolific)
 
-Strategic Investor Researcher – Behavioral Economics, Wayne State University (Detroit, MI)                       October 2023 – April 2024
+Strategic Investor Researcher – Behavioral Economics, Wayne State University (Detroit, MI)                       
 _Data engineered Monte Carlo simulations in lotteries to analyze under Game Theoretical Approaches_
 •	Designed Python-based Monte Carlo simulations to analyze lottery participation dynamics, simulating over 20+ years of data
 •	Applied game theory to model lottery participation, revealing a 14% rise in multiple winners during inflation
