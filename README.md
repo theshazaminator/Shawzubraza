@@ -6,9 +6,9 @@ I am a Wayne State University B.Sc. graduate with degrees in Mathematics, Psycho
 Wayne State University – Liberal Arts and Sciences   	                                                                                                           Detroit, MI
 First Holder of Three Separate Bachelor of Science Degrees in Wayne State History                                                                         
 B.S in Mathematics							         	                                                            
-- Courses: Topological Data Analytics, Statistics and Probability Theory, and Introduction to C++
-- Research: Lottery Manager vs. Gambler in Crisis: A Game Theoretical Approach
-- Clubs: President/Founder of Wayne State SIAM Chapter
+- <ins>**Courses**</ins>: Topological Data Analytics, Statistics and Probability Theory, and Introduction to C++
+- <ins>**Research**</ins>: Lottery Manager vs. Gambler in Crisis: A Game Theoretical Approach
+- <ins>**Clubs**</ins>: President/Founder of Wayne State SIAM Chapter
 
 B.S in Biomedical Physics									 
 - Courses: Biological Physics, Thermodynamics, and Physics in Medicine (Cancer Research)
