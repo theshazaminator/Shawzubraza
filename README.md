@@ -20,10 +20,6 @@ B.S in Psychology
 - <ins>**Courses**</ins>: Statistics in Psychology, Cognitive Psychology, and Brain and Behavior
 - <ins>**Research**</ins>: Swipe Right or Left: Physical and Informational Attractiveness in Online Dating, Lullabies in Detroit
 - <ins>**Clubs**</ins>: Undergraduate Psychology Society
-<img width="468" height="227" alt="image" src="https://github.com/user-attachments/assets/e01960ef-8e74-457e-843e-c30e851fc3bb" />
 
-
-
-
-
+## Credential
 <img src="https://github.com/user-attachments/assets/0ced8d5c-47c6-463d-9e12-019cf7e07618" width="200">
