@@ -3,9 +3,9 @@
 I am a Wayne State University B.Sc. graduate with degrees in Mathematics, Psychology, and Biomedical Physics. Throughout my life, I have made intentional decisions to enhance my research capacity beginning in high school, when I transferred from my home school to an International Baccalaureate (IB) program. This drive led me to join a university research lab while still in high school, and it has since evolved into publishing and developing papers across interdisciplinary fields. My discipline and passion for mastering complex topics are deeply ingrained in who I am, and I am ambitious to take on the next challenging project.
 
 ### Technical Skills
-Programing/Scripting Languages: Python, SQL, C++, JavaScript, Bash 
-Data Science and Machine Learning: Pandas, NumPy, R, SPSS, Scikit-learn, A/B Testing, Artificial Intelligence LLMs
-Data Visualization: Tableau, Matplotlib, ggplot2 | Scientific Computing: Pythia, ROOT, Topological Data Analysis (TDA) 
+**Programing/Scripting Languages**: Python, SQL, C++, JavaScript, Bash 
+**Data Science and Machine Learning**: Pandas, NumPy, R, SPSS, Scikit-learn, A/B Testing, Artificial Intelligence LLMs
+**Data Visualization**: Tableau, Matplotlib, ggplot2 | Scientific Computing: Pythia, ROOT, Topological Data Analysis (TDA) 
 
 
 # Experience 
