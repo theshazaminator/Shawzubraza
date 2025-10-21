@@ -3,8 +3,10 @@
 I am a Wayne State University B.Sc. graduate with degrees in Mathematics, Psychology, and Biomedical Physics. Throughout my life, I have made intentional decisions to enhance my research capacity beginning in high school, when I transferred from my home school to an International Baccalaureate (IB) program. This drive led me to join a university research lab while still in high school, and it has since evolved into publishing and developing papers across interdisciplinary fields. My discipline and passion for mastering complex topics are deeply ingrained in who I am, and I am ambitious to take on the next challenging project.
 
 # Education
-Wayne State University – Liberal Arts and Sciences   	                                                                                                           Detroit, MI
+Wayne State University – Liberal Arts and Sciences   	                                                                                                           
+
 First Holder of Three Separate Bachelor of Science Degrees in Wayne State History                                                                         
+
 B.S in Mathematics							         	                                                            
 - <ins>**Courses**</ins>: Topological Data Analytics, Statistics and Probability Theory, and Introduction to C++
 - <ins>**Research**</ins>: Lottery Manager vs. Gambler in Crisis: A Game Theoretical Approach
