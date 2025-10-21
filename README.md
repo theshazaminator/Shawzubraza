@@ -4,8 +4,7 @@ I am a Wayne State University B.Sc. graduate with degrees in Mathematics, Psycho
 
 # Education
 Wayne State University – Liberal Arts and Sciences   	                                                                                                           
-
-First Holder of Three Separate Bachelor of Science Degrees in Wayne State History                                                                         
+_First Holder of Three Separate Bachelor of Science Degrees in Wayne State History_                                                                         
 
 B.S in Mathematics							         	                                                            
 - <ins>**Courses**</ins>: Topological Data Analytics, Statistics and Probability Theory, and Introduction to C++
