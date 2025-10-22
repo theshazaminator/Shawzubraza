@@ -1,12 +1,14 @@
 # Hello World 👋,  I'm Shawzub Raza
 
-I am a Wayne State University B.Sc. graduate with degrees in Mathematics, Psychology, and Biomedical Physics. I have extensive research experience spanning Social-Developmental Psychology, Nuclear Physics, Game Theory, Biomedical Physics, and Decision-Making Sciences. My expertise lies in Monte Carlo simulation, predictive analysis, and experimental research design. I have contributed to new insights in state lottery behavior, with my findings featured in university news outlets. Beyond research, I am deeply passionate about leadership—founding the SIAM chapter at Wayne State University and promoting the Biomedical Physics program through high school outreach initiatives to help revitalize student interest and enrollment.
+I am a Wayne State University B.Sc. graduate with degrees in Mathematics, Psychology, and Biomedical Physics. I have extensive research experience spanning Social-Developmental Psychology, Nuclear Physics, Game Theory, Biomedical Physics, and Decision-Making Sciences. My expertise lies in Monte Carlo simulation, predictive analysis, and A/B Testing. I have contributed to new insights in state lottery behavior, with my findings featured in university news outlets. Beyond research, I am deeply passionate about leadership—founding the SIAM chapter at Wayne State University and promoting the Biomedical Physics program through high school outreach initiatives to help revitalize student interest and enrollment.
 
 ### Technical Skills
-- **Programing/Scripting Languages**: Python, SQL, C++, JavaScript, Bash 
+- **Programing/Scripting Languages**: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), SQL, C++, JavaScript, Bash </br>
 - **Data Science and Machine Learning**: Pandas, NumPy, R, SPSS, Scikit-learn, A/B Testing, YOLO11
 - **Data Visualization**: Tableau, Matplotlib, ggplot2
 - **Scientific Computing**: Pythia, ROOT, Topological Data Analysis (TDA) 
+
+# Social Media
 
 
 # Experience 
@@ -35,29 +37,3 @@ _Performed particle collision data analytics from CERN and RHIC_
 - Research identified a 10% increase in strangeness production, supporting QGP formation theories
 
 
-
-
-
-
-
-# Education
-Wayne State University – Liberal Arts and Sciences   	                                                                                                           
-_First Holder of Three Separate Bachelor of Science Degrees in Wayne State History_                                                                         
-
-B.S in Mathematics							         	                                                            
-- <ins>**Courses**</ins>: Topological Data Analytics, Statistics and Probability Theory, and Introduction to C++
-- <ins>**Research**</ins>: Lottery Manager vs. Gambler in Crisis: A Game Theoretical Approach
-- <ins>**Clubs**</ins>: President/Founder of Wayne State SIAM Chapter
-
-B.S in Biomedical Physics									 
-- <ins>**Courses**</ins>: Biological Physics, Thermodynamics, and Physics in Medicine (Cancer Research)
-- <ins>**Research**</ins>: Quark-Gluon Plasma Strangeness Production, CDF/CMS
-- <ins>**Clubs**</ins>: President (Co-President Role) of Wayne State Biophysical Society
-
-B.S in Psychology									 
-- <ins>**Courses**</ins>: Statistics in Psychology, Cognitive Psychology, and Brain and Behavior
-- <ins>**Research**</ins>: Swipe Right or Left: Physical and Informational Attractiveness in Online Dating, Lullabies in Detroit
-- <ins>**Clubs**</ins>: Undergraduate Psychology Society
-
-## Credential
-<img src="https://github.com/user-attachments/assets/0ced8d5c-47c6-463d-9e12-019cf7e07618" width="200">
