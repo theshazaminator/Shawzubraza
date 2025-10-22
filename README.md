@@ -4,7 +4,7 @@ I am a Wayne State University B.Sc. graduate with degrees in Mathematics, Psycho
 
 ### Technical Skills
 - **Programing/Scripting Languages**: Python, SQL, C++, JavaScript, Bash 
-- **Data Science and Machine Learning**: Pandas, NumPy, R, SPSS, Scikit-learn, A/B Testing, Artificial Intelligence LLMs
+- **Data Science and Machine Learning**: Pandas, NumPy, R, SPSS, Scikit-learn, A/B Testing, YOLO
 - **Data Visualization**: Tableau, Matplotlib, ggplot2
 - **Scientific Computing**: Pythia, ROOT, Topological Data Analysis (TDA) 
 
