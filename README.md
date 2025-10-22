@@ -12,18 +12,17 @@ I am a Wayne State University B.Sc. graduate with degrees in Mathematics, Psycho
 ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white) ![devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)
 
 # Experience 
-- Game Theory Instructor, Math Corps - Wayne State University (Detroit, MI)                            
+1. Game Theory Instructor, Math Corps - Wayne State University (Detroit, MI)                            
 _Piloted a Game Theory course within the nationally recognized, NSF-funded Math Corps program_
 
-- Decision Science Researcher, Wayne State University (Detroit, MI)                                                                          
-_Researching decisions in dating choices between Bio Information and Physical Attractiveness_
+2. Decision Science Researcher, Wayne State University (Detroit, MI)                                                                          _Researching decisions in dating choices between Bio Information and Physical Attractiveness_
 
 
-- Strategic Investor Researcher – Behavioral Economics, Wayne State University (Detroit, MI)                       
+3. Strategic Investor Researcher – Behavioral Economics, Wayne State University (Detroit, MI)                       
 _Data engineered Monte Carlo simulations in lotteries to analyze under Game Theoretical Approaches_
 
 
-- Nuclear Data Scientist – Nuclear Physics, Wayne State University (Detroit, MI)                                                     
+4. Nuclear Data Scientist – Nuclear Physics, Wayne State University (Detroit, MI)                                                     
 _Performed particle collision data analytics from CERN and RHIC_
 
 
