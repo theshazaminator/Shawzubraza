@@ -27,7 +27,7 @@ _Performed particle collision data analytics from CERN and RHIC_
 
 # Recent Works
 
-<video src="https://github.com/user-attachments/assets/77eba404-70f0-460a-92b0-f8cf56cb4bf6" controls></video>
+<video src="https://github.com/user-attachments/assets/77eba404-70f0-460a-92b0-f8cf56cb4bf6" width="320" height="240" controls></video>
 
 
 
